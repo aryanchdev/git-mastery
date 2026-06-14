@@ -1,1 +1,2 @@
 DAY 1 learned GIT Basics
+DAY 2 learned Branching
