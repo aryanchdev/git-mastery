@@ -1,2 +1,3 @@
 DAY 1 learned GIT Basics
 DAY 2 learned Branching
+DAY 3 learned Rebasing
