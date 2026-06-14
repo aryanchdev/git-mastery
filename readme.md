@@ -1,4 +1,4 @@
-README KIDDO!
+README!
 edit
 main edit 2
 edit main too but lil wrong
